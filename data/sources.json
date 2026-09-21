@@ -1,0 +1,5 @@
+[
+  {"name":"OpenAI","channel":"官方博客","url":"https://openai.com/news/rss.xml","kind":"rss","official":true},
+  {"name":"Google","channel":"官方博客","url":"https://blog.google/technology/ai/rss/","kind":"rss","official":true},
+  {"name":"Microsoft","channel":"官方博客","url":"https://blogs.microsoft.com/feed/","kind":"rss","official":true}
+]
